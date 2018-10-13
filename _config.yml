@@ -43,6 +43,8 @@ yandex_site_verification :
 naver_site_verification  :
 
 # Social Sharing
+pinterest:
+  username               :elisavetliana
 twitter:
   username               :
 facebook:
