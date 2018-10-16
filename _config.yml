@@ -44,11 +44,11 @@ naver_site_verification  :
 
 # Social Sharing
 pinterest:
-  username               : elisavetliana
+  username               : 
 twitter:
   username               :
 facebook:
-  username               : Elisavet Liana
+  username               : "Προγραμματισμός της Διάδρασης"
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
@@ -73,7 +73,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "https://www.facebook.com/elisavet.liana.1998"
+  facebook         : "https://www.facebook.com/%CE%A0%CF%81%CE%BF%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%B1%CF%84%CE%B9%CF%83%CE%BC%CF%8C%CF%82-%CF%84%CE%B7%CF%82-%CE%94%CE%B9%CE%AC%CE%B4%CF%81%CE%B1%CF%83%CE%B7%CF%82-752358225100849/?modal=admin_todo_tour"
   foursquare       :
   github           : "mibook"
   gitlab           :
@@ -82,7 +82,7 @@ author:
   instagram        :
   lastfm           :
   linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
-  pinterest        : "https://www.pinterest.es/elisavetliana/"
+  pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
